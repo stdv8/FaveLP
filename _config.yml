@@ -5,8 +5,8 @@ locale: en_US
 description: Share with us your favorite records and why you love them
 logo: site-logo.png
 search: true
-url: #"http://stdv8.github.io/FaveLP"
 url: http://FaveLP.com
+#url: http://127.0.0.1:4000
 
 # Jekyll configuration
 
@@ -33,7 +33,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Joe Sepi
-  avatar: bio-photo.jpg
+  avatar: huh.png
   email: sepi@joesepi.com
   disqus-shortname:
   twitter: joe_sepi
