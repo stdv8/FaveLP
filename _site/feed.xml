@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">FaveLP</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://127.0.0.1:4000/feed.xml" />
-<link rel="alternate" type="text/html" href="http://127.0.0.1:4000" />
-<updated>2015-02-24T10:04:49-05:00</updated>
-<id>http://127.0.0.1:4000/</id>
+<link rel="self" type="application/atom+xml" href="/FaveLP/feed.xml" />
+<link rel="alternate" type="text/html" href="/FaveLP" />
+<updated>2015-02-24T10:43:58-05:00</updated>
+<id>/FaveLP/</id>
 <author>
   <name>Joe Sepi</name>
-  <uri>http://127.0.0.1:4000/</uri>
+  <uri>/FaveLP/</uri>
   <email>sepi@joesepi.com</email>
 </author>
 
@@ -17,14 +17,14 @@
 
 <entry>
   <title type="html"><![CDATA[Post with Large Feature Image and Text]]></title>
-  <link rel="alternate" type="text/html" href="http://127.0.0.1:4000/articles/readability-feature-post/" />
-  <id>http://127.0.0.1:4000/articles/readability-feature-post</id>
+  <link rel="alternate" type="text/html" href="/FaveLP/articles/readability-feature-post/" />
+  <id>/FaveLP/articles/readability-feature-post</id>
   <updated>2013-06-30T00:00:00-00:00</updated>
   <published>2013-05-23T00:00:00-04:00</published>
   
   <author>
     <name>Joe Sepi</name>
-    <uri>http://127.0.0.1:4000</uri>
+    <uri>/FaveLP</uri>
     <email>sepi@joesepi.com</email>
   </author>
   <content type="html">
@@ -34,12 +34,12 @@
 
 &lt;h2 id=&quot;cupidatat-90s-lo-fi-authentic-try-hard&quot;&gt;Cupidatat 90’s lo-fi authentic try-hard&lt;/h2&gt;
 
-&lt;p&gt;In pug Portland incididunt mlkshk put a bird on it vinyl quinoa. Terry Richardson shabby chic +1, scenester Tonx excepteur tempor fugiat voluptate fingerstache aliquip nisi next level. Farm-to-table hashtag Truffaut, Odd Future ex meggings gentrify single-origin coffee try-hard 90’s. &lt;/p&gt;
+&lt;p&gt;In pug Portland incididunt mlkshk put a bird on it vinyl quinoa. Terry Richardson shabby chic +1, scenester Tonx excepteur tempor fugiat voluptate fingerstache aliquip nisi next level. Farm-to-table hashtag Truffaut, Odd Future ex meggings gentrify single-origin coffee try-hard 90’s.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Sartorial hoodie &lt;/li&gt;
+  &lt;li&gt;Sartorial hoodie&lt;/li&gt;
   &lt;li&gt;Labore viral forage&lt;/li&gt;
-  &lt;li&gt;Tote bag selvage &lt;/li&gt;
+  &lt;li&gt;Tote bag selvage&lt;/li&gt;
   &lt;li&gt;DIY exercitation et id ugh tumblr church-key&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -49,7 +49,7 @@
 
 &lt;h2 id=&quot;forage-occaecat-cardigan-qui&quot;&gt;Forage occaecat cardigan qui&lt;/h2&gt;
 
-&lt;p&gt;Fashion axe hella gastropub lo-fi kogi 90’s aliquip +1 veniam delectus tousled. Cred sriracha locavore gastropub kale chips, iPhone mollit sartorial. Anim dolore 8-bit, pork belly dolor photo booth aute flannel small batch. Dolor disrupt ennui, tattooed whatever salvia Banksy sartorial roof party selfies raw denim sint meh pour-over. Ennui eu cardigan sint, gentrify iPhone cornhole. &lt;/p&gt;
+&lt;p&gt;Fashion axe hella gastropub lo-fi kogi 90’s aliquip +1 veniam delectus tousled. Cred sriracha locavore gastropub kale chips, iPhone mollit sartorial. Anim dolore 8-bit, pork belly dolor photo booth aute flannel small batch. Dolor disrupt ennui, tattooed whatever salvia Banksy sartorial roof party selfies raw denim sint meh pour-over. Ennui eu cardigan sint, gentrify iPhone cornhole.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Whatever velit occaecat quis deserunt gastropub, leggings elit tousled roof party 3 wolf moon kogi pug blue bottle ea. Fashion axe shabby chic Austin quinoa pickled laborum bitters next level, disrupt deep v accusamus non fingerstache.&lt;/p&gt;
@@ -67,9 +67,9 @@
 
 &lt;p&gt;Occupy et selvage squid, pug brunch blog nesciunt hashtag mumblecore skateboard yr kogi. Ugh small batch swag four loko. Fap post-ironic qui tote bag farm-to-table american apparel scenester keffiyeh vero, swag non pour-over gentrify authentic pitchfork. Schlitz scenester lo-fi voluptate, tote bag irony bicycle rights pariatur vero Vice freegan wayfarers exercitation nisi shoreditch. Chambray tofu vero sed. Street art swag literally leggings, Cosby sweater mixtape PBR lomo Banksy non in pitchfork ennui McSweeney’s selfies. Odd Future Banksy non authentic.&lt;/p&gt;
 
-&lt;p&gt;Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.&lt;/p&gt;
+&lt;p&gt;Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam. Blar Barl BLARL&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://127.0.0.1:4000/articles/readability-feature-post/&quot;&gt;Post with Large Feature Image and Text&lt;/a&gt; was originally published by Joe Sepi at &lt;a href=&quot;http://127.0.0.1:4000&quot;&gt;FaveLP&lt;/a&gt; on May 23, 2013.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;/FaveLP/articles/readability-feature-post/&quot;&gt;Post with Large Feature Image and Text&lt;/a&gt; was originally published by Joe Sepi at &lt;a href=&quot;/FaveLP&quot;&gt;FaveLP&lt;/a&gt; on May 23, 2013.&lt;/p&gt;
   </content>
 </entry>
 

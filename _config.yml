@@ -5,8 +5,8 @@ locale: en_US
 description: Share with us your favorite records and why you love them
 logo: site-logo.png
 search: true
-baseurl:     "/FaveLP"
-url:         "http://stdv8.github.io"
+url: #"http://stdv8.github.io/FaveLP"
+url: /FaveLP
 
 # Jekyll configuration
 
