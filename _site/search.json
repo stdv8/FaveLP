@@ -2,17 +2,13 @@
 
   
     {
-      "title"			: "Post with Large Feature Image and Text",
-      "link"			: "/FaveLP/articles/readability-feature-post/",
-      "excerpt"		: "Custom written post descriptions are the way to go... if you're not lazy."
+      "title"			: "Cardiacs - Obvious Identity",
+      "link"			: "http://FaveLP.com/albums/cardiacs-obvious-identity/",
+      "excerpt"		: "Some of the weirdest shit you will ever love"
     }
   
 
 
-
-  
-
-  
 
   
 
@@ -24,10 +20,16 @@
 
   
     ,{
-      "title"			: "About the Jekyll Theme",
-      "link"			: "/FaveLP/about/",
-      "excerpt"		: "So Simple is a responsive Jekyll theme for your words and images."
+      "title"			: "About FaveLP",
+      "link"			: "http://FaveLP.com/about/",
+      "excerpt"		: "You love records. So do we."
     }
+  
+
+  
+
+  
+
   
 
   

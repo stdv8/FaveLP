@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/FaveLP/articles/readability-feature-post/</loc>
-    <lastmod>2013-05-23T00:00:00-04:00</lastmod>
+    <loc>http://FaveLP.com/albums/cardiacs-obvious-identity/</loc>
+    <lastmod>2015-02-24T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>/FaveLP/</loc>
-    <lastmod>2015-02-24T10:43:58-05:00</lastmod>
+    <loc>http://FaveLP.com/</loc>
+    <lastmod>2015-02-24T12:03:57-05:00</lastmod>
   </url>
   <url>
-    <loc>/FaveLP/articles/</loc>
-    <lastmod>2015-02-24T10:43:58-05:00</lastmod>
+    <loc>http://FaveLP.com/blog/</loc>
+    <lastmod>2015-02-24T12:03:57-05:00</lastmod>
   </url>
   <url>
-    <loc>/FaveLP/tags/</loc>
-    <lastmod>2015-02-24T10:43:58-05:00</lastmod>
+    <loc>http://FaveLP.com/about/</loc>
+    <lastmod>2015-02-24T12:03:57-05:00</lastmod>
   </url>
   <url>
-    <loc>/FaveLP/about/</loc>
-    <lastmod>2015-02-24T10:43:58-05:00</lastmod>
+    <loc>http://FaveLP.com/articles/</loc>
+    <lastmod>2015-02-24T12:03:57-05:00</lastmod>
   </url>
   <url>
-    <loc>/FaveLP/blog/</loc>
-    <lastmod>2015-02-24T10:43:58-05:00</lastmod>
+    <loc>http://FaveLP.com/tags/</loc>
+    <lastmod>2015-02-24T12:03:57-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://FaveLP.com/albums/</loc>
+    <lastmod>2015-02-24T12:03:57-05:00</lastmod>
   </url>
 </urlset>
