@@ -1,0 +1,39 @@
+[
+
+  
+    {
+      "title"			: "Post with Large Feature Image and Text",
+      "link"			: "http://127.0.0.1:4000/articles/readability-feature-post/",
+      "excerpt"		: "Custom written post descriptions are the way to go... if you're not lazy."
+    }
+  
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+    ,{
+      "title"			: "About the Jekyll Theme",
+      "link"			: "http://127.0.0.1:4000/about/",
+      "excerpt"		: "So Simple is a responsive Jekyll theme for your words and images."
+    }
+  
+
+  
+
+  
+
+  
+
+]

@@ -1,0 +1,51 @@
+# Site wide configuration
+
+title: FaveLP
+locale: en_US
+description: Share with us your favorite records and why you love them
+logo: site-logo.png
+search: true
+url: http://127.0.0.1:4000
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  use_coderay: false
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+
+# Site owner
+owner:
+  name: Joe Sepi
+  avatar: bio-photo.jpg
+  email: sepi@joesepi.com
+  disqus-shortname:
+  twitter: joe_sepi
+  facebook: joesepi
+  github: joesepi
+  stackexchange: http://stackoverflow.com/users/1766637/joe-sepi
+  instagram: joesepi
+  flickr: imsepi
+  tumblr: joesepi
+  google:
+    plus: joesepi
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
