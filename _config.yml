@@ -5,8 +5,8 @@ locale: en_US
 description: Share with us your favorite records and why you love them
 logo: site-logo.png
 search: true
-url: http://FaveLP.com
-#url: http://127.0.0.1:4000
+#url: http://FaveLP.com
+url: http://127.0.0.1:4000
 
 # Jekyll configuration
 

@@ -10,3 +10,7 @@ image:
 ---
 
 More to come here. We are just getting started.
+
+<!--
+Give some love to the theme developer as well as Jekyll. I got this site up and looking nice within a couple hours because of this very nice theme.
+-->
