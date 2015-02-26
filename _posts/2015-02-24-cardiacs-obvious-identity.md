@@ -1,6 +1,5 @@
 ---
 layout: post
-title: "Cardiacs - Obvious Identity"
 artist: "Cardiacs"
 album: "Obvious Identity"
 excerpt: "Some of the weirdest shit you will ever love"
